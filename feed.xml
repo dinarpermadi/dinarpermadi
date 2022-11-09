@@ -3,12 +3,44 @@
     <title>Permadi</title>
     <link href="https://dinarpermadi.github.io/dinarpermadi/feed.xml" rel="self" />
     <link href="https://dinarpermadi.github.io/dinarpermadi" />
-    <updated>2022-11-09T17:17:59+07:00</updated>
+    <updated>2022-11-09T18:03:09+07:00</updated>
     <author>
         <name>Narr07</name>
     </author>
     <id>https://dinarpermadi.github.io/dinarpermadi</id>
 
+    <entry>
+        <title>Ok contoh ke dua</title>
+        <author>
+            <name>Narr07</name>
+        </author>
+        <link href="https://dinarpermadi.github.io/dinarpermadi/ok-contoh-ke-dua.html"/>
+        <id>https://dinarpermadi.github.io/dinarpermadi/ok-contoh-ke-dua.html</id>
+            <category term="Contoh"/>
+
+        <updated>2022-11-09T18:03:09+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Ilove youuvdvsdv Ilove youuvdvsdv
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+
+  <p>
+    Ilove youuvdvsdv
+  </p>
+
+  <p>
+    Ilove youuvdvsdv
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ini adalah Contoh Artikel 1</title>
         <author>

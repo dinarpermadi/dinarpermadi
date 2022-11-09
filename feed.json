@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://dinarpermadi.github.io/dinarpermadi/ok-contoh-ke-dua.html",
+            "url": "https://dinarpermadi.github.io/dinarpermadi/ok-contoh-ke-dua.html",
+            "title": "Ok contoh ke dua",
+            "summary": "Ilove youuvdvsdv Ilove youuvdvsdv",
+            "content_html": "\n  <p>\n    \n  </p>\n\n  <p>\n    Ilove youuvdvsdv\n  </p>\n\n  <p>\n    Ilove youuvdvsdv\n  </p>",
+            "author": {
+                "name": "Narr07"
+            },
+            "tags": [
+                   "Contoh"
+            ],
+            "date_published": "2022-11-09T18:03:09+07:00",
+            "date_modified": "2022-11-09T18:03:09+07:00"
+        },
+        {
             "id": "https://dinarpermadi.github.io/dinarpermadi/ini-adalah-contoh-artikel-1.html",
             "url": "https://dinarpermadi.github.io/dinarpermadi/ini-adalah-contoh-artikel-1.html",
             "title": "Ini adalah Contoh Artikel 1",
