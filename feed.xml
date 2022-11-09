@@ -3,7 +3,7 @@
     <title>Permadi</title>
     <link href="https://dinarpermadi.github.io/dinarpermadi/feed.xml" rel="self" />
     <link href="https://dinarpermadi.github.io/dinarpermadi" />
-    <updated>2022-11-09T17:01:19+07:00</updated>
+    <updated>2022-11-09T17:17:59+07:00</updated>
     <author>
         <name>Narr07</name>
     </author>
@@ -16,16 +16,32 @@
         </author>
         <link href="https://dinarpermadi.github.io/dinarpermadi/ini-adalah-contoh-artikel-1.html"/>
         <id>https://dinarpermadi.github.io/dinarpermadi/ini-adalah-contoh-artikel-1.html</id>
+        <media:content url="https://dinarpermadi.github.io/dinarpermadi/media/posts/1/students-2808385_1920.jpg" medium="image" />
+            <category term="Contoh"/>
 
-        <updated>2022-11-09T17:01:19+07:00</updated>
+        <updated>2022-11-09T17:17:59+07:00</updated>
             <summary>
                 <![CDATA[
-                    A simple, modern looking theme for your blog or portfolio website.
+                        <img src="https://dinarpermadi.github.io/dinarpermadi/media/posts/1/students-2808385_1920.jpg" alt="Contoh" />
+                    Advantages of all themes package: One low price for all premium themes, with 6 access to the files and updates and 3 months of premium support. Any themes released in those 6 months are also included. No website license – use all themes on an&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>A simple, modern looking theme for your blog or portfolio website.</p>
+                    <p><img src="https://dinarpermadi.github.io/dinarpermadi/media/posts/1/students-2808385_1920.jpg" class="type:primaryImage" alt="Contoh" /></p>
+                <h2 class="h6">Advantages of all themes package:</h2>
+<ul>
+<li>One low price for all premium themes, with 6 access to the files and updates and 3 months of premium support.</li>
+<li>Any themes released in those 6 months are also included.</li>
+<li>No website license – use all themes on an unlimited number of domains and websites.</li>
+<li>If the price of the theme pack goes up, existing customers will only need to pay their original price (with a 50% discount for renewals) when renewing their access to the files/updates; new customers will need to pay the new, higher price.</li>
+</ul>
+<section>
+<h2>List of included themes:</h2>
+<div class="show-desc">
+<p>Purchasing this pack gets you access to ten professional Publii themes; the technically-minded Documentation and ProDocs theme, the stylish Photography theme that’s perfect for portfolios; the flexible, customizable Mellisa theme; Editorial and N-Tech theme for blogs or a small news site and Cortado theme great for a restaurant or hotel.</p>
+</div>
+</section>
             ]]>
         </content>
     </entry>
