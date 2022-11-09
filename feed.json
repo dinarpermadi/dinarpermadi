@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Permadi",
     "description": "",
-    "home_page_url": "https://dinarpermadi.github.io",
-    "feed_url": "https://dinarpermadi.github.io/feed.json",
+    "home_page_url": "https://dinarpermadi.github.io/dinarpermadi",
+    "feed_url": "https://dinarpermadi.github.io/dinarpermadi/feed.json",
     "user_comment": "",
     "author": {
         "name": "Narr07"
     },
     "items": [
         {
-            "id": "https://dinarpermadi.github.io/ini-adalah-contoh-artikel-1.html",
-            "url": "https://dinarpermadi.github.io/ini-adalah-contoh-artikel-1.html",
+            "id": "https://dinarpermadi.github.io/dinarpermadi/ini-adalah-contoh-artikel-1.html",
+            "url": "https://dinarpermadi.github.io/dinarpermadi/ini-adalah-contoh-artikel-1.html",
             "title": "Ini adalah Contoh Artikel 1",
             "summary": "A simple, modern looking theme for your blog or portfolio website.",
             "content_html": "<p>A simple, modern looking theme for your blog or portfolio website.</p>",
