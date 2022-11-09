@@ -9,5 +9,19 @@
         "name": "Narr07"
     },
     "items": [
+        {
+            "id": "https://dinarpermadi.github.io/ini-adalah-contoh-artikel-1.html",
+            "url": "https://dinarpermadi.github.io/ini-adalah-contoh-artikel-1.html",
+            "title": "Ini adalah Contoh Artikel 1",
+            "summary": "A simple, modern looking theme for your blog or portfolio website.",
+            "content_html": "<p>A simple, modern looking theme for your blog or portfolio website.</p>",
+            "author": {
+                "name": "Narr07"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-09T17:01:19+07:00",
+            "date_modified": "2022-11-09T17:01:19+07:00"
+        }
     ]
 }
