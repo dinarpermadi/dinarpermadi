@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dinarpermadi.github.io/dinarpermadi/sitemap.xml
